@@ -1,0 +1,14 @@
+{
+  "name": "lt-tester",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
